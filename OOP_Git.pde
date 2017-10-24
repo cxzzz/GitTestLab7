@@ -1,4 +1,4 @@
-// I love dit
+// I love maths
 
 void setup() {
   size(500, 500);
